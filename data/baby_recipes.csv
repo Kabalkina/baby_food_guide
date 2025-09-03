@@ -1,0 +1,501 @@
+Dish Name;Baby Age;Iron-Rich;Allergen;Ingredients;Cooking Time (mins);Recipe;Texture;Meal Type;Calories (approx);Preparation Difficulty
+Cheese & Broccoli Pasta 1;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Chicken & Sweet Pea Purée 2;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Cheese & Broccoli Pasta 3;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Chicken & Sweet Pea Purée 4;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Mini Veggie Omelette Fingers 5;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Cheese & Broccoli Pasta 6;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Banana & Yogurt Bowl 7;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Chicken & Sweet Pea Purée 8;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Whole Wheat Mini Pancakes 9;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Cheese & Broccoli Pasta 10;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Cheese & Broccoli Pasta 11;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Chicken & Sweet Pea Purée 12;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Chicken & Sweet Pea Purée 13;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Salmon & Potato Mash 14;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Whole Wheat Mini Pancakes 15;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Whole Wheat Mini Pancakes 16;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Lentil & Carrot Mash 17;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Chicken & Sweet Pea Purée 18;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Whole Wheat Mini Pancakes 19;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Whole Wheat Mini Pancakes 20;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Chicken & Sweet Pea Purée 21;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Banana & Yogurt Bowl 22;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Sweet Potato Purée 23;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Sweet Potato Purée 24;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Banana & Yogurt Bowl 25;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Chicken & Sweet Pea Purée 26;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mashed Avocado 27;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Mashed Avocado 28;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Sweet Potato Purée 29;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Lentil & Carrot Mash 30;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Chicken & Sweet Pea Purée 31;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Cheese & Broccoli Pasta 32;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Whole Wheat Mini Pancakes 33;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Whole Wheat Mini Pancakes 34;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mini Veggie Omelette Fingers 35;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Mashed Avocado 36;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Whole Wheat Mini Pancakes 37;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Apple & Oatmeal Cereal 38;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Lentil & Carrot Mash 39;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Chicken & Sweet Pea Purée 40;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Sweet Potato Purée 41;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Mini Veggie Omelette Fingers 42;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Mini Veggie Omelette Fingers 43;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Mashed Avocado 44;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Banana & Yogurt Bowl 45;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Lentil & Carrot Mash 46;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 47;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Mini Veggie Omelette Fingers 48;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Mini Veggie Omelette Fingers 49;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Mini Veggie Omelette Fingers 50;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Sweet Potato Purée 51;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Sweet Potato Purée 52;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Chicken & Sweet Pea Purée 53;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Cheese & Broccoli Pasta 54;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Chicken & Sweet Pea Purée 55;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Banana & Yogurt Bowl 56;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Sweet Potato Purée 57;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Mashed Avocado 58;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mashed Avocado 59;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Mashed Avocado 60;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Banana & Yogurt Bowl 61;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Mini Veggie Omelette Fingers 62;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Apple & Oatmeal Cereal 63;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Cheese & Broccoli Pasta 64;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Salmon & Potato Mash 65;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Salmon & Potato Mash 66;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Chicken & Sweet Pea Purée 67;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Salmon & Potato Mash 68;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Sweet Potato Purée 69;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Whole Wheat Mini Pancakes 70;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Apple & Oatmeal Cereal 71;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Salmon & Potato Mash 72;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Sweet Potato Purée 73;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Mini Veggie Omelette Fingers 74;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Sweet Potato Purée 75;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Salmon & Potato Mash 76;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Banana & Yogurt Bowl 77;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Salmon & Potato Mash 78;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Mini Veggie Omelette Fingers 79;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Lentil & Carrot Mash 80;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Cheese & Broccoli Pasta 81;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Mini Veggie Omelette Fingers 82;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Chicken & Sweet Pea Purée 83;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Banana & Yogurt Bowl 84;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Whole Wheat Mini Pancakes 85;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Lentil & Carrot Mash 86;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Banana & Yogurt Bowl 87;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Sweet Potato Purée 88;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Salmon & Potato Mash 89;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Lentil & Carrot Mash 90;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Whole Wheat Mini Pancakes 91;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Lentil & Carrot Mash 92;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Apple & Oatmeal Cereal 93;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Chicken & Sweet Pea Purée 94;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Mini Veggie Omelette Fingers 95;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Apple & Oatmeal Cereal 96;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Sweet Potato Purée 97;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Apple & Oatmeal Cereal 98;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Apple & Oatmeal Cereal 99;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Mashed Avocado 100;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Banana & Yogurt Bowl 101;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Whole Wheat Mini Pancakes 102;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Chicken & Sweet Pea Purée 103;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mashed Avocado 104;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Mashed Avocado 105;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Whole Wheat Mini Pancakes 106;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Banana & Yogurt Bowl 107;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Banana & Yogurt Bowl 108;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Mini Veggie Omelette Fingers 109;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Whole Wheat Mini Pancakes 110;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Apple & Oatmeal Cereal 111;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Lentil & Carrot Mash 112;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 113;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Cheese & Broccoli Pasta 114;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Salmon & Potato Mash 115;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Lentil & Carrot Mash 116;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Chicken & Sweet Pea Purée 117;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Apple & Oatmeal Cereal 118;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Apple & Oatmeal Cereal 119;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Cheese & Broccoli Pasta 120;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Mashed Avocado 121;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Sweet Potato Purée 122;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Whole Wheat Mini Pancakes 123;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Chicken & Sweet Pea Purée 124;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Chicken & Sweet Pea Purée 125;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Apple & Oatmeal Cereal 126;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Lentil & Carrot Mash 127;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Chicken & Sweet Pea Purée 128;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Lentil & Carrot Mash 129;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Lentil & Carrot Mash 130;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Salmon & Potato Mash 131;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Cheese & Broccoli Pasta 132;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Whole Wheat Mini Pancakes 133;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mini Veggie Omelette Fingers 134;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Salmon & Potato Mash 135;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Chicken & Sweet Pea Purée 136;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Sweet Potato Purée 137;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Sweet Potato Purée 138;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Mini Veggie Omelette Fingers 139;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Salmon & Potato Mash 140;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Cheese & Broccoli Pasta 141;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Whole Wheat Mini Pancakes 142;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Mini Veggie Omelette Fingers 143;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Banana & Yogurt Bowl 144;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Apple & Oatmeal Cereal 145;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Banana & Yogurt Bowl 146;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Chicken & Sweet Pea Purée 147;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Whole Wheat Mini Pancakes 148;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Lentil & Carrot Mash 149;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Salmon & Potato Mash 150;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Banana & Yogurt Bowl 151;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Lentil & Carrot Mash 152;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 153;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Chicken & Sweet Pea Purée 154;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Sweet Potato Purée 155;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Chicken & Sweet Pea Purée 156;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Sweet Potato Purée 157;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Cheese & Broccoli Pasta 158;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Mashed Avocado 159;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Cheese & Broccoli Pasta 160;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Chicken & Sweet Pea Purée 161;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Salmon & Potato Mash 162;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Cheese & Broccoli Pasta 163;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Sweet Potato Purée 164;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Lentil & Carrot Mash 165;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Lentil & Carrot Mash 166;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 167;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Apple & Oatmeal Cereal 168;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Apple & Oatmeal Cereal 169;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Salmon & Potato Mash 170;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Salmon & Potato Mash 171;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Lentil & Carrot Mash 172;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Sweet Potato Purée 173;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Banana & Yogurt Bowl 174;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Lentil & Carrot Mash 175;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Banana & Yogurt Bowl 176;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Lentil & Carrot Mash 177;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Cheese & Broccoli Pasta 178;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Lentil & Carrot Mash 179;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Apple & Oatmeal Cereal 180;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Salmon & Potato Mash 181;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Whole Wheat Mini Pancakes 182;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Banana & Yogurt Bowl 183;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Salmon & Potato Mash 184;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Whole Wheat Mini Pancakes 185;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mashed Avocado 186;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mashed Avocado 187;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Whole Wheat Mini Pancakes 188;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Apple & Oatmeal Cereal 189;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Chicken & Sweet Pea Purée 190;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Salmon & Potato Mash 191;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Chicken & Sweet Pea Purée 192;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Banana & Yogurt Bowl 193;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Sweet Potato Purée 194;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Chicken & Sweet Pea Purée 195;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mini Veggie Omelette Fingers 196;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Cheese & Broccoli Pasta 197;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Sweet Potato Purée 198;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Mashed Avocado 199;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Cheese & Broccoli Pasta 200;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Chicken & Sweet Pea Purée 201;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Apple & Oatmeal Cereal 202;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Cheese & Broccoli Pasta 203;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Chicken & Sweet Pea Purée 204;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mashed Avocado 205;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Chicken & Sweet Pea Purée 206;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Apple & Oatmeal Cereal 207;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Cheese & Broccoli Pasta 208;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Lentil & Carrot Mash 209;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Chicken & Sweet Pea Purée 210;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mashed Avocado 211;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Whole Wheat Mini Pancakes 212;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Cheese & Broccoli Pasta 213;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Lentil & Carrot Mash 214;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Lentil & Carrot Mash 215;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 216;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Whole Wheat Mini Pancakes 217;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Lentil & Carrot Mash 218;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Mashed Avocado 219;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Lentil & Carrot Mash 220;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Mini Veggie Omelette Fingers 221;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Cheese & Broccoli Pasta 222;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Mini Veggie Omelette Fingers 223;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Mashed Avocado 224;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Apple & Oatmeal Cereal 225;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Banana & Yogurt Bowl 226;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Cheese & Broccoli Pasta 227;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Sweet Potato Purée 228;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Salmon & Potato Mash 229;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Cheese & Broccoli Pasta 230;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Mashed Avocado 231;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Lentil & Carrot Mash 232;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Lentil & Carrot Mash 233;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Mashed Avocado 234;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Chicken & Sweet Pea Purée 235;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Apple & Oatmeal Cereal 236;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Banana & Yogurt Bowl 237;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Whole Wheat Mini Pancakes 238;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Sweet Potato Purée 239;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Chicken & Sweet Pea Purée 240;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Banana & Yogurt Bowl 241;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Cheese & Broccoli Pasta 242;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Mashed Avocado 243;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mini Veggie Omelette Fingers 244;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Mashed Avocado 245;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Whole Wheat Mini Pancakes 246;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Cheese & Broccoli Pasta 247;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Apple & Oatmeal Cereal 248;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mini Veggie Omelette Fingers 249;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Whole Wheat Mini Pancakes 250;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Apple & Oatmeal Cereal 251;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mashed Avocado 252;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Mashed Avocado 253;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Chicken & Sweet Pea Purée 254;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Apple & Oatmeal Cereal 255;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Mini Veggie Omelette Fingers 256;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Mini Veggie Omelette Fingers 257;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Sweet Potato Purée 258;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Apple & Oatmeal Cereal 259;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mashed Avocado 260;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Apple & Oatmeal Cereal 261;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Chicken & Sweet Pea Purée 262;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Chicken & Sweet Pea Purée 263;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Salmon & Potato Mash 264;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Mashed Avocado 265;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Cheese & Broccoli Pasta 266;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Sweet Potato Purée 267;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Whole Wheat Mini Pancakes 268;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mashed Avocado 269;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Salmon & Potato Mash 270;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Mashed Avocado 271;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Apple & Oatmeal Cereal 272;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Chicken & Sweet Pea Purée 273;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Banana & Yogurt Bowl 274;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Salmon & Potato Mash 275;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Mini Veggie Omelette Fingers 276;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Mini Veggie Omelette Fingers 277;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Chicken & Sweet Pea Purée 278;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Lentil & Carrot Mash 279;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 280;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Lentil & Carrot Mash 281;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 282;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Salmon & Potato Mash 283;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Lentil & Carrot Mash 284;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 285;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Banana & Yogurt Bowl 286;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Salmon & Potato Mash 287;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Apple & Oatmeal Cereal 288;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Chicken & Sweet Pea Purée 289;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Mashed Avocado 290;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mashed Avocado 291;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Mashed Avocado 292;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Lentil & Carrot Mash 293;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Salmon & Potato Mash 294;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Chicken & Sweet Pea Purée 295;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Apple & Oatmeal Cereal 296;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Whole Wheat Mini Pancakes 297;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Cheese & Broccoli Pasta 298;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Apple & Oatmeal Cereal 299;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mashed Avocado 300;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Cheese & Broccoli Pasta 301;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Whole Wheat Mini Pancakes 302;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Whole Wheat Mini Pancakes 303;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Apple & Oatmeal Cereal 304;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Cheese & Broccoli Pasta 305;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Sweet Potato Purée 306;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Whole Wheat Mini Pancakes 307;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Chicken & Sweet Pea Purée 308;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Salmon & Potato Mash 309;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Chicken & Sweet Pea Purée 310;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Sweet Potato Purée 311;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Mini Veggie Omelette Fingers 312;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Banana & Yogurt Bowl 313;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Sweet Potato Purée 314;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Apple & Oatmeal Cereal 315;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Lentil & Carrot Mash 316;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Mashed Avocado 317;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Chicken & Sweet Pea Purée 318;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Cheese & Broccoli Pasta 319;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Banana & Yogurt Bowl 320;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Mashed Avocado 321;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Salmon & Potato Mash 322;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Apple & Oatmeal Cereal 323;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Mashed Avocado 324;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mini Veggie Omelette Fingers 325;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Banana & Yogurt Bowl 326;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Salmon & Potato Mash 327;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Cheese & Broccoli Pasta 328;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Lentil & Carrot Mash 329;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Whole Wheat Mini Pancakes 330;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Salmon & Potato Mash 331;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Apple & Oatmeal Cereal 332;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Banana & Yogurt Bowl 333;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Mashed Avocado 334;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Lentil & Carrot Mash 335;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Mashed Avocado 336;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Sweet Potato Purée 337;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Salmon & Potato Mash 338;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Mashed Avocado 339;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Apple & Oatmeal Cereal 340;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Sweet Potato Purée 341;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Apple & Oatmeal Cereal 342;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Lentil & Carrot Mash 343;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Mashed Avocado 344;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Cheese & Broccoli Pasta 345;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Salmon & Potato Mash 346;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Lentil & Carrot Mash 347;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 348;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Whole Wheat Mini Pancakes 349;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Banana & Yogurt Bowl 350;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Chicken & Sweet Pea Purée 351;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Chicken & Sweet Pea Purée 352;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Chicken & Sweet Pea Purée 353;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Chicken & Sweet Pea Purée 354;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Lentil & Carrot Mash 355;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Lentil & Carrot Mash 356;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Salmon & Potato Mash 357;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Salmon & Potato Mash 358;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Sweet Potato Purée 359;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Whole Wheat Mini Pancakes 360;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mashed Avocado 361;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Sweet Potato Purée 362;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Banana & Yogurt Bowl 363;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Mini Veggie Omelette Fingers 364;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Salmon & Potato Mash 365;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Chicken & Sweet Pea Purée 366;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mashed Avocado 367;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mashed Avocado 368;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Chicken & Sweet Pea Purée 369;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Sweet Potato Purée 370;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Salmon & Potato Mash 371;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Apple & Oatmeal Cereal 372;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Cheese & Broccoli Pasta 373;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Mini Veggie Omelette Fingers 374;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Whole Wheat Mini Pancakes 375;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Apple & Oatmeal Cereal 376;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Sweet Potato Purée 377;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Apple & Oatmeal Cereal 378;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Lentil & Carrot Mash 379;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Apple & Oatmeal Cereal 380;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Sweet Potato Purée 381;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Apple & Oatmeal Cereal 382;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Cheese & Broccoli Pasta 383;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Lentil & Carrot Mash 384;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Chicken & Sweet Pea Purée 385;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Apple & Oatmeal Cereal 386;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Apple & Oatmeal Cereal 387;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mini Veggie Omelette Fingers 388;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Chicken & Sweet Pea Purée 389;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Whole Wheat Mini Pancakes 390;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Lentil & Carrot Mash 391;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Apple & Oatmeal Cereal 392;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Cheese & Broccoli Pasta 393;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Apple & Oatmeal Cereal 394;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Mashed Avocado 395;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Lentil & Carrot Mash 396;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Whole Wheat Mini Pancakes 397;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Cheese & Broccoli Pasta 398;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Chicken & Sweet Pea Purée 399;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Mashed Avocado 400;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Apple & Oatmeal Cereal 401;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mini Veggie Omelette Fingers 402;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Lentil & Carrot Mash 403;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Mashed Avocado 404;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Whole Wheat Mini Pancakes 405;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mashed Avocado 406;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Mashed Avocado 407;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Mashed Avocado 408;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Banana & Yogurt Bowl 409;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Salmon & Potato Mash 410;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Lentil & Carrot Mash 411;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Mashed Avocado 412;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Lentil & Carrot Mash 413;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 414;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Cheese & Broccoli Pasta 415;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Chicken & Sweet Pea Purée 416;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Salmon & Potato Mash 417;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Lentil & Carrot Mash 418;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 419;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Salmon & Potato Mash 420;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Sweet Potato Purée 421;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Mashed Avocado 422;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Salmon & Potato Mash 423;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Chicken & Sweet Pea Purée 424;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Banana & Yogurt Bowl 425;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Apple & Oatmeal Cereal 426;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Sweet Potato Purée 427;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Cheese & Broccoli Pasta 428;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Apple & Oatmeal Cereal 429;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Whole Wheat Mini Pancakes 430;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Whole Wheat Mini Pancakes 431;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Cheese & Broccoli Pasta 432;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Mashed Avocado 433;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Salmon & Potato Mash 434;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Chicken & Sweet Pea Purée 435;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mashed Avocado 436;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Salmon & Potato Mash 437;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Sweet Potato Purée 438;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Chicken & Sweet Pea Purée 439;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Salmon & Potato Mash 440;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Banana & Yogurt Bowl 441;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Mini Veggie Omelette Fingers 442;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Lentil & Carrot Mash 443;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 444;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Apple & Oatmeal Cereal 445;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Lentil & Carrot Mash 446;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Sweet Potato Purée 447;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Mini Veggie Omelette Fingers 448;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Whole Wheat Mini Pancakes 449;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Cheese & Broccoli Pasta 450;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Mini Veggie Omelette Fingers 451;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Mashed Avocado 452;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Apple & Oatmeal Cereal 453;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Banana & Yogurt Bowl 454;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Lentil & Carrot Mash 455;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Mashed Avocado 456;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Sweet Potato Purée 457;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Medium
+Apple & Oatmeal Cereal 458;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Lentil & Carrot Mash 459;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Cheese & Broccoli Pasta 460;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Mini Veggie Omelette Fingers 461;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Apple & Oatmeal Cereal 462;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Chicken & Sweet Pea Purée 463;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Whole Wheat Mini Pancakes 464;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Chicken & Sweet Pea Purée 465;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Cheese & Broccoli Pasta 466;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Medium
+Whole Wheat Mini Pancakes 467;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Medium
+Chicken & Sweet Pea Purée 468;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Medium
+Apple & Oatmeal Cereal 469;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Apple & Oatmeal Cereal 470;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Cheese & Broccoli Pasta 471;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Chicken & Sweet Pea Purée 472;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Salmon & Potato Mash 473;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Chicken & Sweet Pea Purée 474;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Mini Veggie Omelette Fingers 475;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Banana & Yogurt Bowl 476;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Medium
+Mashed Avocado 477;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Medium
+Sweet Potato Purée 478;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Salmon & Potato Mash 479;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Easy
+Apple & Oatmeal Cereal 480;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Mini Veggie Omelette Fingers 481;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Cheese & Broccoli Pasta 482;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Apple & Oatmeal Cereal 483;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Salmon & Potato Mash 484;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Apple & Oatmeal Cereal 485;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Apple & Oatmeal Cereal 486;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Easy
+Mini Veggie Omelette Fingers 487;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Easy
+Chicken & Sweet Pea Purée 488;8-12 months;Yes;None;Chicken breast, peas, sweet potato, water;30;Steam chicken & veggies, blend to purée;Purée;Dinner;120;Easy
+Cheese & Broccoli Pasta 489;18-36 months;No;Gluten,Dairy;Small pasta, broccoli, cheese, butter;15;Cook pasta, steam broccoli, mix with cheese sauce;Soft Pieces;Dinner;200;Easy
+Sweet Potato Purée 490;6-8 months;Yes;None;Sweet potato, water, breastmilk/formula;20;Steam sweet potato until soft, blend with water or milk until smooth;Purée;Lunch;70;Easy
+Apple & Oatmeal Cereal 491;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
+Mini Veggie Omelette Fingers 492;9-12 months;Yes;Egg;Eggs, spinach, cheese (optional), olive oil;15;Whisk eggs, cook with veggies, cut into finger strips;Finger Food;Breakfast;150;Medium
+Lentil & Carrot Mash 493;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Lentil & Carrot Mash 494;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Easy
+Banana & Yogurt Bowl 495;8-12 months;No;Dairy;Banana, plain yogurt;5;Mash banana, mix with yogurt, serve chilled;Mash;Snack;80;Easy
+Lentil & Carrot Mash 496;7-10 months;Yes;None;Red lentils, carrot, onion (optional), water;25;Cook lentils & carrot, mash or blend to smooth consistency;Mash;Lunch;100;Medium
+Salmon & Potato Mash 497;10-14 months;Yes;Fish;Salmon, potato, broccoli, olive oil;30;Steam fish & veg, mash together;Mash;Lunch;130;Medium
+Whole Wheat Mini Pancakes 498;12-18 months;No;Gluten,Dairy,Egg;Whole wheat flour, egg, milk, banana;15;Mix ingredients, cook small pancakes;Finger Food;Breakfast;110;Easy
+Mashed Avocado 499;6-8 months;No;None;Ripe avocado, breastmilk/formula;5;Mash avocado and thin with milk if needed;Mash;Breakfast;60;Easy
+Apple & Oatmeal Cereal 500;6-9 months;No;Gluten;Oats, apple, water;10;Cook oats, blend with steamed apple, adjust thickness with water;Purée;Breakfast;90;Medium
