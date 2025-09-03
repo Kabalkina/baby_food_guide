@@ -1,4 +1,6 @@
 .env
+qdrant_storage;C
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
