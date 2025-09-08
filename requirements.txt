@@ -1,7 +1,7 @@
 tqdm 
 notebook==7.1.2 
 groq 
-#elasticsearch==8.13.0 
+elasticsearch==8.13.0 
 pandas 
 scikit-learn 
 ipywidgets 
@@ -10,3 +10,4 @@ matplotlib
 seaborn
 numpy
 python-dotenv
+sentence_transformers
