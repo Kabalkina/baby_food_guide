@@ -1,5 +1,7 @@
 DATA_PATH : "../data/baby_recipes_cleaned.csv"
+GROUND_TRUTH_PATH : "../data/ground-truth-data.csv"
 GROQ_CLIENT : Groq(api_key=os.getenv("GROQ_API_KEY"))
+GROQ_MODEL: "qwen/qwen3-32b"
 QD_CLIENT : QdrantClient("http://localhost:6333")
 MODEL : 'BAAI/bge-small-en'
 EMBEDDING_DIMENSIONALITY : 384

@@ -11,3 +11,4 @@ seaborn
 numpy
 python-dotenv
 sentence_transformers
+flask

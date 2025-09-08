@@ -12,7 +12,9 @@ def _load_config():
 _config = _load_config()
 
 DATA_PATH = _config['DATA_PATH']
+GROUND_TRUTH_PATH = _config['GROUND_TRUTH_PATH']
 GROQ_CLIENT = _config['GROQ_CLIENT']
+GROQ_MODEL = _config['GROQ_MODEL']
 QD_CLIENT = _config['QD_CLIENT']
 MODEL = _config['MODEL']
 EMBEDDING_DIMENSIONALITY = _config['EMBEDDING_DIMENSIONALITY']
