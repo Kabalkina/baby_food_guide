@@ -6,7 +6,7 @@ from qdrant_client import QdrantClient, models
 
 import get_data
 
-from config_loader import MODEL, COLLECTION_NAME, GROQ_CLIENT, GROQ_MODEL
+from .config_loader import MODEL, COLLECTION_NAME, GROQ_CLIENT, GROQ_MODEL
 
 
 documents = get_data.load_data()

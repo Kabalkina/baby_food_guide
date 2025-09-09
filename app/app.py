@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import uuid
 import logging
-from rag import rag
+from .rag import rag
 
 # Setup Flask app
 app = Flask(__name__)

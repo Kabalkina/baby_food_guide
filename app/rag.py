@@ -1,12 +1,14 @@
 import re
 import json
+import os
+from groq import Groq
 import logging
 import pandas as pd
 from fastembed import TextEmbedding
 from qdrant_client import QdrantClient, models
 
-import get_data
-from config_loader import MODEL, COLLECTION_NAME, GROQ_CLIENT, GROQ_MODEL
+from . import get_data
+from .config_loader import MODEL, COLLECTION_NAME, GROQ_MODEL
 
 # Setup logging
 logging.basicConfig(
@@ -23,12 +25,14 @@ ground_truth = get_data.get_ground_truth()
 # Initialize embedding model
 logging.info(f"Loading embedding model: {MODEL}")
 embedding_model = TextEmbedding(MODEL)
+GROQ_CLIENT = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 
-def vector_search(question, top_k=2):
+def vector_search(question, top_k=1):
     """Search Qdrant for top_k most relevant documents."""
     logging.info(f"Running vector search for query: {question}")
-    query_vector = list(embedding_model.embed([question])[0])
+
+    query_vector = list(next(embedding_model.embed([question])))
 
     query_points = qd_client.query_points(
         collection_name=COLLECTION_NAME,
