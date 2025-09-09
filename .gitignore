@@ -1,6 +1,10 @@
+# Ignore sensitive files
 .env
-qdrant_storage;C
-data
+data/
+qdrant_storage/
+postgres_data/
+grafana_data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -17,11 +17,17 @@ baby_food_guide/
 │   ├── baby_recipes_cleaned.csv
 │   ├── baby_recipes.csv   
 │   └── ground-truth-data.csv
+├── docker/
+│   ├── grafana/                 # Grafana dashboards
+│   │   └── dashboards.json
+│   └── postgres-init.sql        # DB init script
 ├── notebooks/ 
 │   ├── evaluation_data_generation.ipynb    # generates ground_truth dataset 
 │   ├── generator.py    # generates raw data (baby_recipes.csv)
 │   ├── retrieval_evaluation.ipynb  # 1. Retrival evaluation with hit rate and MRR and 2. LLM evaluation with cosine similarity
 │   └── vetor_search.ipynb  # RAG flow with Vector search (Qrandt)
+├── docker-compose.yml
+├── Dockerfile                   # For the Flask app
 ├── test.py                # Script to test the API
 ├── requirements.txt
 └── venv/                  
@@ -29,25 +35,50 @@ baby_food_guide/
 # Technologies
 
 * Groq as LLM
-* Qdrant for vector search
+* Qdrant as vector search
 * Flask as API
+* Postgres as Database
+* Grafana as monitoring tool
+* Prometheus as metrics for monitoring
 
 # Run the application
 
 clone git repo and install dependencies
 
 [add code snippets]
+´´´bash
+pip install -r reqirements.txt
+´´´
 
+### Run with docker-compose
 
-run docker for Qdrant
+Flow overview
+
 
 ´´´bash
-docker pull qdrant/qdrant
+#  1. Build and start all services
+docker-compose --env-file .env up --build
 
-docker run -p 6333:6333 -p 6334:6334 \
-   -v "$(pwd)/qdrant_storage:/qdrant/storage:z" \
-   qdrant/qdrant
+# 2. Run DB init:
+docker-compose exec app python -m app.db_prep
+
+#  3. Access services
+# Flask app: http://localhost:5000
+# Qdrant dashboard: http://localhost:6333/dashboard
+# Grafana: http://localhost:3000
+# Postgres: localhost:5432
+
+# 4. Test API
+python test.py
 ´´´
+
+Use APIs:
+* /ask: Saves conversations to DB
+* /feedback: Saves feedback to DB
+
+Monitor in Grafana:
+* Query Postgres directly for stats
+
 
 Optional: run docker for elastic search (for evaluation part)
 ´´´bash
@@ -62,12 +93,15 @@ docker run -it \
     docker.elastic.co/elasticsearch/elasticsearch:8.4.3
 ´´´
 
-API test
+### To run it locally and test an API
 
+´´´bash
 python app.py
-
+´´´
 in a seperate bash:
+´´´bash
 python test.py
+´´´
 
 You will get a respond similar to this one:
 
