@@ -6,7 +6,7 @@ from qdrant_client import QdrantClient, models
 #from fastembed import TextEmbedding
 
 
-from .config_loader import DATA_PATH, GROUND_TRUTH_PATH, MODEL, COLLECTION_NAME, EMBEDDING_DIMENSIONALITY
+from app.config_loader import DATA_PATH, GROUND_TRUTH_PATH, MODEL, COLLECTION_NAME, EMBEDDING_DIMENSIONALITY
 
 TEXT_FIELDS = ["dish_name", "baby_age", "iron_rich", "allergen", "ingredients", "cooking_time","recipe", "texture", 
                "meal_type", "calories", "preparation_difficulty"]
@@ -22,9 +22,17 @@ def load_data(path=DATA_PATH):
 
 def create_collection_and_upsert(documents, model=MODEL, collection_name=COLLECTION_NAME):
     load_dotenv()
-    #
+    
     QD_CLIENT = QdrantClient("http://localhost:6333")
-    QD_CLIENT.delete_collection(collection_name=collection_name)
+
+    qdrant_host = os.getenv("QDRANT_HOST", "localhost")
+    QD_CLIENT = QdrantClient(f"http://{qdrant_host}:6333")
+    
+    try:
+        QD_CLIENT.delete_collection(collection_name=collection_name)
+    except Exception as e:
+        print(f"Collection {collection_name} doesn't exist or couldn't be deleted: {e}")
+    
     try:
         QD_CLIENT.create_collection(
             collection_name=COLLECTION_NAME,

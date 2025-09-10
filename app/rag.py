@@ -4,11 +4,13 @@ import os
 from groq import Groq
 import logging
 import pandas as pd
+
+
 from fastembed import TextEmbedding
 from qdrant_client import QdrantClient, models
 
-from . import get_data
-from .config_loader import MODEL, COLLECTION_NAME, GROQ_MODEL
+from app.get_data import load_data, create_collection_and_upsert, get_ground_truth
+from app.config_loader import MODEL, COLLECTION_NAME, GROQ_MODEL
 
 # Setup logging
 logging.basicConfig(
@@ -16,21 +18,47 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s"
 )
 
-# Load data and initialize Qdrant client
-logging.info("Loading documents and ground truth...")
-documents = get_data.load_data()
-qd_client = get_data.create_collection_and_upsert(documents)
-ground_truth = get_data.get_ground_truth()
+# Initialize as None - will be loaded when needed
+documents = None
+qd_client = None
+ground_truth = None
+embedding_model = None
+GROQ_CLIENT = None
 
-# Initialize embedding model
-logging.info(f"Loading embedding model: {MODEL}")
-embedding_model = TextEmbedding(MODEL)
-GROQ_CLIENT = Groq(api_key=os.getenv("GROQ_API_KEY"))
+def initialize_rag_components():
+    """Initialize all RAG components when needed"""
+    global documents, qd_client, ground_truth, embedding_model, GROQ_CLIENT
+    
+    if documents is None:
+        logging.info("Loading documents and ground truth...")
+        documents = load_data()
+        ground_truth = get_ground_truth()
+        
+        logging.info("Initializing Qdrant client...")
+        qd_client = create_collection_and_upsert(documents)
+        
+        logging.info(f"Loading embedding model: {MODEL}")
+        embedding_model = TextEmbedding(MODEL)
+        
+        GROQ_CLIENT = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+
+# Load data and initialize Qdrant client
+# logging.info("Loading documents and ground truth...")
+# documents = load_data()
+# qd_client = create_collection_and_upsert(documents)
+# ground_truth = get_ground_truth()
+
+# # Initialize embedding model
+# logging.info(f"Loading embedding model: {MODEL}")
+# embedding_model = TextEmbedding(MODEL)
+# GROQ_CLIENT = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 
 def vector_search(question, top_k=1):
     """Search Qdrant for top_k most relevant documents."""
     logging.info(f"Running vector search for query: {question}")
+
 
     query_vector = list(next(embedding_model.embed([question])))
 
@@ -136,6 +164,7 @@ def evaluate(ground_truth, search_function):
 def rag(query):
     """Run full RAG pipeline: search -> prompt -> LLM answer."""
     logging.info(f"Running RAG pipeline for query: {query}")
+    #initialize_rag_components()
     search_results = vector_search(query)
     prompt = build_prompt(query, search_results)
     answer = llm(prompt)

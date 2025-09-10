@@ -31,7 +31,6 @@ services:
       - "9090:9090"
     volumes:
       - ./docker/prometheus.yml:/etc/prometheus/prometheus.yml
-    restart: always
 
   grafana:
     image: grafana/grafana:latest
@@ -42,6 +41,8 @@ services:
       GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_ADMIN_PASSWORD:-admin}
     volumes:
       - grafana_data:/var/lib/grafana
+      - ./docker/grafana/provisioning:/etc/grafana/provisioning
+      - ./docker/grafana/dashboards:/var/lib/grafana/dashboards
     depends_on:
       - prometheus
 
@@ -61,6 +62,7 @@ services:
     depends_on:
       - postgres
       - qdrant
+    restart: on-failure
 
 volumes:
   postgres_data:

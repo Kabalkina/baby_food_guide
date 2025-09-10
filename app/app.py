@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify, Response
 import uuid, logging
-from rag import rag
-from db import save_conversation, save_feedback
+from app.rag import rag, initialize_rag_components
+from app.db import save_conversation, save_feedback
 from prometheus_client import Counter, Histogram, generate_latest, CONTENT_TYPE_LATEST
 import time
 
@@ -29,6 +29,7 @@ def ask():
 
     conversation_id = str(uuid.uuid4())
     try:
+        initialize_rag_components
         answer = rag(question)
         save_conversation(conversation_id, question, answer)
         latency = time.time() - start
